@@ -1,0 +1,14 @@
+name: jam_dart_models
+description: Shared models for all jamstation dart apps
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  meta: ^1.1.6
+
+dev_dependencies:
+  # Jam Packages
+  jam_dart_utilities:
+    path: ../utilities

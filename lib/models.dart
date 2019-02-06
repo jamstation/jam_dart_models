@@ -1,0 +1,10 @@
+export 'src/color.model.dart';
+export 'src/credential.model.dart';
+export 'src/data.model.dart';
+export 'src/enum.dart';
+export 'src/geo_point.model.dart';
+export 'src/location.model.dart';
+export 'src/instance_creator.model.dart';
+export 'src/table.model.dart';
+export 'src/user_profile.model.dart';
+export 'src/user.model.dart';
